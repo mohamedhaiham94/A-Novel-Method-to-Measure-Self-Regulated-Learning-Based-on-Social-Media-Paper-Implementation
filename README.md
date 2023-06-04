@@ -1,5 +1,7 @@
 # A-Novel-Method-to-Measure-Self-Regulated-Learning-Based-on-Social-Media-Paper-Implementation
 
+I have such honor to participate and contribute to implementing the following paper which 
+
 # Abstract
 Self-Regulated Learning (SRL) draws many scholars’ attention because of the fast proliferation
 of the quantity of information available to students and the advancements in educational technologies. This
