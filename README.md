@@ -1,7 +1,8 @@
-# A-Novel-Method-to-Measure-Self-Regulated-Learning-Based-on-Social-Media-Paper-Implementation
+# A-Novel-Method-to-Measure-Self-Regulated-Learning-Based-on-Social-Media
 
-I have such honor to participate and contribute to implementing the following paper which 
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9465800
+This is source code for the paper: "A-Novel-Method-to-Measure-Self-Regulated-Learning-Based-on-Social-Media", published at the IEEE , May. 2021 ([https://ieeexplore.ieee.org/abstract/document/9580478](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9465800))
+
+
 
 # Abstract
 Self-Regulated Learning (SRL) draws many scholars’ attention because of the fast proliferation
